@@ -4,4 +4,4 @@
 
 
 
-[Visualize the results in here.](https://nextstrain.org/community/leke-lyu/ncov)
+[Visualize the results in here.](https://nextstrain.org/community/leke-lyu/ncov/houston?dmax=2021-08-13&dmin=2021-06-22)

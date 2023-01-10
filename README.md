@@ -27,7 +27,8 @@ You can find the config files that runs this build in [here.](https://github.com
 
 To replicate this run, you need to first (1) install Nextstrain components and (2) download the ncov workflow. Please visit [this page](https://docs.nextstrain.org/projects/ncov/en/latest/tutorial/setup.html) if you need more instruction on installation.
 
-Once you're able to run a basic build of the `ncov` repository, clone [this repository](https://github.com/leke-lyu/deltaInGreaterHoustonArea) into the `ncov` repository. To run locally (without any advanced cluster submission), you could just type:
+Once you can run a basic build of the `ncov` repository, clone [this repository](https://github.com/leke-lyu/deltaInGreaterHoustonArea) into the `ncov` folder. To run locally (without any advanced cluster submission), you could type:
+
 ```shell
 nextstrain build . --configfile deltaInGreaterHoustonArea/builds.yaml 
 ```

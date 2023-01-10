@@ -7,10 +7,7 @@ This instance includes 2664 genomes sampled between Jun 2021 and Aug 2021. We on
 There are 981 samples collected from Texas, 328 of which are focused on Harris county (Houston). Through collaboration with the Houston Health Department, we acquired the detailed metadata of all these Texas samples, including zip code, sex, and race. To investigate when and how did SARS-CoV-2 circulate in Houston, we also collected worldwide samples as 'background'. In total, 987 samples were collected in other US states (except Texas); 99 samples were collected in North America (except the USA); 100 samples were collected in South America; 197 samples were collected in Europe; 101 samples were collected in Asia; 99 samples were collected in Africa; 100 samples were collected in Oceania.
 
 The following plot showed the collection date of all samples.
-![Date.pdf](https://github.com/leke-lyu/ncov/files/10379414/Date.pdf)
-<p align="center">
-  <img src="https://github.com/leke-lyu/ncov/files/10379414/Date.pdf">
-</p>
+<p align="center"><img src="https://github.com/leke-lyu/ncov/files/10379414/Date.pdf"></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

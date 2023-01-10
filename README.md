@@ -19,6 +19,8 @@ The following plot showed the collection date of all samples.
 - [Global (state view)](https://nextstrain.org/community/leke-lyu/ncov/global?r=division)
 - [Global (county view)](https://nextstrain.org/community/leke-lyu/ncov/global?r=location)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Running the Build
 You can find the config files that runs this build in [here.](https://github.com/leke-lyu/deltaInGreaterHoustonArea)
 
@@ -28,3 +30,5 @@ Once you're able to run a basic build of the `ncov` repository, clone this repos
 
 To run locally (without any advanced cluster submission) comment out line 20 in `profiles/south-central/config.yaml`, which specifies the cluster submission options (`cluster: "sbatch --time=....`) before trying to run the pipeline.
 You can run the entire 'South-Central' profile (which includes Texas, Louisiana, & South-Central builds) by running
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

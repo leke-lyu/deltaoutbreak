@@ -9,7 +9,7 @@ There are 981 samples collected from Texas, 328 of which are focused on Harris c
 The following plot showed the collection date of all samples.
 ![Date.pdf](https://github.com/leke-lyu/ncov/files/10379414/Date.pdf)
 <p align="center">
-  <img src="[http://www.fillmurray.com/460/300](https://github.com/leke-lyu/ncov/files/10379414/Date.pdf)">
+  <img src="https://github.com/leke-lyu/ncov/files/10379414/Date.pdf">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

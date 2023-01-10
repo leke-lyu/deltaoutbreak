@@ -25,7 +25,9 @@ The following plot showed the collection date of all samples.
 ## Running the Build
 You can find the config files that runs this build in [here.](https://github.com/leke-lyu/deltaInGreaterHoustonArea)
 
-To run this repository, you need to have a copy or version of the [ncov]() Nextstrain repository running, as this repository builds on that base, and just does a more 'specific' run with the same data. Visit the `ncov` repository above for a guide on getting this run going.
+To replicate this run, you need to first (1) install Nextstrain components and (2) download the ncov workflow. Please visit the [following page](https://docs.nextstrain.org/projects/ncov/en/latest/tutorial/setup.html) if you need more instruction on installation.
+
+have a copy or version of the [ncov]() Nextstrain repository running, as this repository builds on that base, and just does a more 'specific' run with the same data. Visit the `ncov` repository above for a guide on getting this run going.
 
 Once you're able to run a basic build of the `ncov` repository, clone this repository into a folder which sits in the same directory as the `ncov` repository. Currently, the profile given here is specified to run on Emma's local compute cluster. You may need to change these settings to match your own cluster or local setup.
 

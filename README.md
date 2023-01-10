@@ -10,6 +10,7 @@ There are 981 samples collected from Texas, 328 of which are focused on Harris c
 ## View the Builds
 - [Texas (location view)](https://nextstrain.org/community/leke-lyu/ncov/houston)
 - [USA (division view)](https://nextstrain.org/community/leke-lyu/ncov/texas)
+- [USA (location view)](https://nextstrain.org/community/leke-lyu/ncov/texas?r=location)
 
 ## Running the Build
 You can find the config files that runs this build in [here.](https://github.com/leke-lyu/deltaInGreaterHoustonArea)

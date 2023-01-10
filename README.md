@@ -1,6 +1,6 @@
+<a name="readme-top"></a>
 # Genomic Epidemiology of Delta Variant in Houston
 [Nextstrain](https://nextstrain.org) uses Auspice to visualize JSON files that are created by Augur. Here we share our instance via [community](https://nextstrain.org/community/) on gitgub.
-<a name="readme-top"></a>
 
 ## Data Description
 This instance includes 2664 genomes sampled between Jun 2021 and Aug 2021. We only selected samples with high-coverage complete genomes (above 29,000 bp) from GISAID. According to GISAID, high coverage means that only entries with less than 1% of undefined bases (NNNs) and no insertions and deletions unless verified by the submitter are tolerated.

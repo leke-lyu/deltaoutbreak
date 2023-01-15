@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 # Genomic Epidemiology of Delta Variant in Houston 
 
-<img align="right" width="100" alt="Texas" src="https://user-images.githubusercontent.com/46392207/211480214-5a6c92b6-ba0a-4268-a118-f55529bf6ba9.png">
+<img align="right" width="100" alt="Texas" src="https://user-images.githubusercontent.com/46392207/212571616-83689300-e02e-42d7-a288-e1706c82df3f.png">
 
 [Nextstrain](https://nextstrain.org) uses Auspice to visualize JSON files that are created by Augur. Here we share our instance via [community](https://nextstrain.org/community/) on gitgub.
 

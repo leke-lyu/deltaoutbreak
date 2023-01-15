@@ -18,7 +18,7 @@ The following plot showed the collection date of all samples.
 ## View the Builds
 - [Texas (county view)](https://nextstrain.org/community/leke-lyu/ncov/houston)
 - [USA (state view)](https://nextstrain.org/community/leke-lyu/ncov/texas)
-- [USA (county view)](https://nextstrain.org/community/leke-lyu/ncov/texas?r=location)
+- [USA (county view)](https://nextstrain.org/community/leke-lyu/ncov/texas?c=location&r=location)
 - [Global (country view)](https://nextstrain.org/community/leke-lyu/ncov/global)
 - [Global (state view)](https://nextstrain.org/community/leke-lyu/ncov/global?r=division)
 - [Global (county view)](https://nextstrain.org/community/leke-lyu/ncov/global?r=location)

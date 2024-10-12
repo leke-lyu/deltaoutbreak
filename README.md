@@ -16,12 +16,9 @@ The following plot showed the collection date of all samples.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## View the Builds
-- [Texas (county view)](https://nextstrain.org/community/leke-lyu/ncov/houston)
-- [USA (state view)](https://nextstrain.org/community/leke-lyu/ncov/texas)
-- [USA (county view)](https://nextstrain.org/community/leke-lyu/ncov/texas?c=location&r=location)
-- [Global (country view)](https://nextstrain.org/community/leke-lyu/ncov/global)
-- [Global (state view)](https://nextstrain.org/community/leke-lyu/ncov/global?c=division&r=division)
-- [Global (county view)](https://nextstrain.org/community/leke-lyu/ncov/global?c=location&r=location)
+
+- [USA (state view)](https://nextstrain.org/community/leke-lyu/deltaoutbreak/texas)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

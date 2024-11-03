@@ -30,7 +30,7 @@ To replicate this run, you need to first (1) install Nextstrain components and (
 Once you can run a basic build of the `ncov` repository, clone [this repository](https://github.com/leke-lyu/deltaInGreaterHoustonArea) into the `ncov` folder. To run locally (without any advanced cluster submission), you could type:
 
 ```shell
-nextstrain build . --configfile deltaInGreaterHoustonArea/builds.yaml 
+nextstrain build . --configfile surveillanceInTexas/builds.yaml
 ```
 
 

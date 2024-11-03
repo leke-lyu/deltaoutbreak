@@ -23,5 +23,3 @@ Once you can run a basic build of the `ncov` repository, clone [this repository]
 nextstrain build . --configfile surveillanceInTexas/builds.yaml
 ```
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

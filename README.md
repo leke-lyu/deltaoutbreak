@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# Genomic Epidemiology of Delta Variant in Houston 
+# the Genomic Surveillance of Delta outbreak in Texas
 
 <img align="right" width="100" alt="Texas" src="https://user-images.githubusercontent.com/46392207/212571616-83689300-e02e-42d7-a288-e1706c82df3f.png">
 

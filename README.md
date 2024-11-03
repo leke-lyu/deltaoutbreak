@@ -6,12 +6,8 @@
 [Nextstrain](https://nextstrain.org) uses Auspice to visualize JSON files that are created by Augur. Here we share our instance via [community](https://nextstrain.org/community/) on gitgub.
 
 ## Data Description
-This instance includes 1970 genomes sampled between March 2021 and November 2021. We only selected samples with high-coverage complete genomes (above 29,000 bp) from GISAID. According to GISAID, high coverage means that only entries with less than 1% of undefined bases (NNNs) and no insertions and deletions unless verified by the submitter are tolerated.
 
-There are 981 samples collected from Texas, 327 of which are focused on Harris county (Houston). Through collaboration with the Houston Health Department, we acquired the detailed metadata of all these Texas samples, including zip code, sex, and race. To investigate when and how did SARS-CoV-2 circulate in Houston, we also collected worldwide samples as 'background'. In total, 392 samples were collected in other US states (except Texas); 100 samples were collected in North America (except the USA); 99 samples were collected in South America; 100 samples were collected in Europe; 100 samples were collected in Asia; 98 samples were collected in Africa; 100 samples were collected in Oceania.
-
-The following plot showed the collection date of all samples.
-<p align="center"><img src="https://github.com/leke-lyu/ncov/files/10421451/samplingDateDistribution.pdf"></p>
+We conducted a comprehensive phylogeographic analysis of 12,048 SARS-CoV-2 Delta genomes sampled from March 27, 2021, to October 24, 2021, to investigate the timing of virus introduction into Texas and the dynamics of the resulting local transmission lineages. These genomes were selected to ensure a roughly 1:1 ratio between Texas sequences (Table S2) and globally contextual sequences (Table S3). 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

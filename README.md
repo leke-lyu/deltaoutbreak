@@ -10,7 +10,7 @@ We conducted a comprehensive phylogeographic analysis of 12,048 SARS-CoV-2 Delta
 
 ## View the Builds
 
-- [USA (state view)](https://nextstrain.org/community/leke-lyu/deltaoutbreak/texas)
+- [Texas build](https://nextstrain.org/community/leke-lyu/deltaoutbreak/texas)
 
 ## Running the Build
 You can find the config files that runs this build in [here.](https://github.com/leke-lyu/deltaInGreaterHoustonArea)

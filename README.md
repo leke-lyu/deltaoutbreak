@@ -13,7 +13,7 @@ We conducted a comprehensive phylogeographic analysis of 12,048 SARS-CoV-2 Delta
 - [Texas build](https://nextstrain.org/community/leke-lyu/deltaoutbreak/texas)
 
 ## Running the Build
-You can find the config files that runs this build in [here.](https://github.com/leke-lyu/deltaInGreaterHoustonArea)
+You can find the config files that runs this build in [here.](https://github.com/leke-lyu/surveillanceInTexas)
 
 To replicate this run, you need to first (1) install Nextstrain components and (2) download the ncov workflow. Please visit [this page](https://docs.nextstrain.org/projects/ncov/en/latest/tutorial/setup.html) if you need more instruction on installation.
 
